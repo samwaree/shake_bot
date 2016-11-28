@@ -1,7 +1,11 @@
 Exit
+EXIT
+Exuent
+EXUENT
 Enter
+ENTER
 Re-enter
 Aside
 ACT
 SCENE
-DUKE OF VENICE Senator
+Lord Chief-Justice
